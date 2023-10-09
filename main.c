@@ -4,8 +4,8 @@
  *  Created on: 8 Oct 2023
  *      Author: been
  *
- *      This is the broken version of the animation but it is not the original
- *      the original verison is long gone and i recreated the error i was getting but without the infinite while loop which caused a crash which was annoying
+ *      This is the latest verion of the program
+ *      
  *      for screens smaller than 1440p you must change the screen dimentions, size is the size of the app and res is the resolution at which the animation is being rendered
  *      having the resolution be larger than the size will likely cause errors but i havent tested it
  *      having the resolution be really small will make the cube (SDL_Rect object named ball) appear larger if it is not adjusted
